@@ -1,4 +1,8 @@
 export{}
+//cmd열어서
+//tsc main.ts  컴파일
+//tsc main --watch  변경이 발생하면 계속 컴파일
+//node js 파일 생성하기 -> node main.js
 let message = 'Welcome back';
 console.log(message);
 
