@@ -22,7 +22,7 @@ var title = 'Convolution';
 var isBeginner = true;
 var total = 0;
 var name = 'Vosjw';
-var sentence = "My name is " + name + " \ni am a beginner in typescript";
+var sentence = "My name is " + name + "\ni am a beginner in typescript";
 console.log(sentence);
 var n = null;
 var u = undefined;
